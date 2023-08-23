@@ -1,0 +1,80 @@
+/*let a = 3;
+let b = 5;
+let c = 6;
+let d = 7;
+let e = 4;
+
+console.log(a % 2);
+console.log(b % 2);
+console.log(c % 2);
+console.log(d % 2);
+console.log(e % 2);
+let minhaidade = 26;
+console.log("antes", minhaidade)
+minhaidade = minhaidade + 1;
+console.log("depois", minhaidade);
+
+
+let soma1 = 3;
+
+ soma1 = soma1 + 4;
+console.log(soma1);
+
+let multiplicação = 3
+multiplicação = multiplicação * 5;
+console.log(multiplicação);
+
+let subtração = 4;
+subtração = subtração - 5;
+subtração = subtração * -1;
+console.log(subtração);
+
+let resto = 234;
+console.log(resto % 5);
+
+let numb1 = 2;
+let numb2 = 3;
+console.log(numb1 === numb2);
+console.log(numb1 !== numb2);
+console.log(numb1 > numb2);
+console.log(numb1 < numb2);
+*/
+//comparadores
+/*
+let a = 5;
+let b = 3;
+let c = 0;
+
+console.log(a === b || a !== c);
+console.log(a === b && a !== c);
+console.log("----separador-----");
+console.log(true || false);
+console.log(true && false);
+*/
+/*
+let a = true;
+let b = false;
+let c = true;
+ 
+console.log(a  && b);
+console.log(b && c);
+console.log(a && c);
+console.log(a && b && c);
+*/
+/*let a = true ; 
+let b = false;
+console.log(a);
+console.log(!a);
+console.log(b);
+console.log(!b);
+ */
+let nome = "gustavo";
+let idade = 15;
+let confirmação = false;
+
+
+let idade2 = idade + 27;
+console.log("nome:", nome);
+console.log("idade", idade);
+console.log("é maior de idade?", confirmação);
+console.log("idade em 2050:",idade2);
